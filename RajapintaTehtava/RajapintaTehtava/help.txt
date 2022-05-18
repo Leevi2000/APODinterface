@@ -1,6 +1,0 @@
-This application gives user ease of access to the NASA APOD API.
-That means that the user can search results and bookmark interesting pictures provided by the API.
-
-What information can I get?
-	- You can get pictures or videos provided with explanation and title. Every day a new picture is added. 
-	API takes the pictures from here: "https://apod.nasa.gov/apod/astropix.html"
